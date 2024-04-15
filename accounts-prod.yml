@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related production fix push APIs "
+  message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "ADJODA Mawuli - Product Owner"
     email: "{cipher}72d2c0b6b86f9d1689dde5e6440b10d9c87f6b0d5047a64a445a9f3d78af738136bd3b21d7e1dc917189c9a46da0a1b1"
